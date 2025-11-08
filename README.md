@@ -1,5 +1,5 @@
 # Crypto Tax Calc 
-[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20@bartoMer177)](https://x.com/bartoMerl77)
+[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20@bartoMer177)](https://x.com/bartoMerl77) 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-black.svg)](https://www.paypal.com/donate?business=)
 
