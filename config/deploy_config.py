@@ -9,7 +9,7 @@ from freqtrade.constants import UNLIMITED_STAKE_AMOUNT
 from freqtrade.exceptions import OperationalException
 
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__) 
 
 
 def validate_is_int(val):
