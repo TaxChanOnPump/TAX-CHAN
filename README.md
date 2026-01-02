@@ -1,7 +1,5 @@
-# Crypto Tax Calc 
-[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20@bartoMer177)](https://x.com/bartoMerl77) 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-black.svg)](https://www.paypal.com/donate?business=)
+
+<img width="4320" height="1440" alt="0916 (1)-copy (2)-copy-copy (1)" src="https://github.com/user-attachments/assets/75445556-a141-48d6-90ce-d7117074c6cf" />
 
 # Introduction
 Crypto Tax Calculator is an open-source model with UIE (Unified Import Engine) support for crypto and personal income tax calculation. It is designed for individuals, accountants, and organizations that require transparency, precision, and compliance across multiple tax jurisdictions. CryptoTaxCalc helps users consolidate all crypto activity — trades, transfers, staking, airdrops, mining rewards, NFT sales, and more — into a clear, tax-compliant report.
